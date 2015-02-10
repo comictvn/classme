@@ -13,9 +13,9 @@ angular.module('minovateApp')
     $scope.main = {
       title: 'Minovate',
       settings: {
-        navbarHeaderColor: 'scheme-default',
-        sidebarColor: 'scheme-default',
-        brandingColor: 'scheme-default',
+        navbarHeaderColor: 'scheme-black',
+        sidebarColor: 'scheme-greensea',
+        brandingColor: 'scheme-light',
         activeColor: 'default-scheme-color',
         headerFixed: true,
         asideFixed: true,
